@@ -12,13 +12,10 @@ Make a PR to the Master branch with the following:
 
 
 ## Submissions
+# Smart-Auth Solution
+Revolutionizing user authentication with a secure single sign-on (SSO) system. Empowering organizations and groups through Account Abstraction and zero-knowledge proofs (zkProofs). Built in collaboration with Biconomy to enhance Web3 user experiences.
 
-Example:
+- GitHub Repository: [Smart-Auth GitHub](https://github.com/samarabdelhameed/BRB-Smart-Auth)
 
-### Title of Project
-- Two line brief of your project
-- Link to any github repositories
-- Link to working demo (if not deployed link to video)
-- Members of team you worked with
-
-  
+- Team Members:
+  - [Samar Abdelhameed](https://github.com/samarabdelhameed)
